@@ -1,0 +1,22 @@
+{
+  "name": "Algorithms",
+  "version": "1.0.0",
+  "description": "This is a book for learning computer algorithms using Python.",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-numbered-headings-for-web-and-books": "^0.1.0",
+    "gitbook-plugin-fontsettings": "^2.0.0",
+    "gitbook-plugin-numbered-headings": "^1.1.1",
+    "gitbook-plugin-toggle-chapters": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.gitbook.com/bhishanpdl/Algorithms_gitbook.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
